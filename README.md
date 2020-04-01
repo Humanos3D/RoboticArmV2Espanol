@@ -1,6 +1,6 @@
 # Robotic Arm Versión 2 
 
-[Aqui puedes encontrar documentación de la segunda versión del primer brazo biónico de bajo costo y código abierto hecho por e-NABLE Medellín](https://github.com/enable-medellin/RoboticArmV2/wiki/Robotic-Arm-Version-2)
+[Aquí puedes encontrar documentación de la segunda versión del primer brazo biónico de bajo costo y código abierto hecho por e-NABLE Medellín](https://github.com/enable-medellin/RoboticArmV2/wiki/Robotic-Arm-Version-2)
 
 <img src =  "https://github.com/enable-medellin/RoboticArmV2/blob/master/wiki_images/roboticArmV2.jpg" width = "1000">
 
